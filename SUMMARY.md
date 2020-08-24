@@ -7,6 +7,7 @@
 * [Quick start](getting-started/quick-start.md)
 * [HTML Structure](getting-started/html-structure.md)
 * [Google Maps API](getting-started/google-maps-api.md)
+* [Logo Settings](getting-started/logo-settings.md)
 
 ## Page Elements
 
