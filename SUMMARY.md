@@ -18,4 +18,12 @@
 * [Cards](page-elements/cards.md)
 * [Carousel Slider](page-elements/carousel-slider.md)
 * [Client Logo](page-elements/client-logo.md)
+* [Counters](page-elements/counters.md)
+* [Dividers](page-elements/dividers.md)
+* [Dropdowns](page-elements/dropdowns.md)
+* [Form](page-elements/form.md)
+* [Google Map](page-elements/google-map.md)
+* [Grid](page-elements/grid.md)
+* [Images](page-elements/images.md)
+* [List](page-elements/list.md)
 
