@@ -13,7 +13,7 @@
 
 ---
 
-* [reboot](reboot.md)
+* [Reboot](reboot.md)
 * [Typography](typography.md)
 * [Code](code.md)
 * [Figures](figures.md)
