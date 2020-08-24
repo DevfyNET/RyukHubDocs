@@ -2,9 +2,9 @@
 
 To get started using the Google Maps click the button below, which guides you through the process of activating the Google Maps JavaScript API and any related services automatically.
 
-{% page-ref page="google-maps-api.md" %}
+[Google Maps API](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-Then paste your key to the Google API script at the bottom of HTML file:
+Then paste your key to the API script at the bottom of HTML file:
 
 ```text
 <!-- Maps -->
