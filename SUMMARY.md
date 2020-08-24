@@ -12,4 +12,10 @@
 
 * [Accordions](page-elements/accordions.md)
 * [Badge](page-elements/badge.md)
+* [Breadcrumbs](page-elements/breadcrumbs.md)
+* [Buttons](page-elements/buttons.md)
+* [Call to action](page-elements/call-to-action.md)
+* [Cards](page-elements/cards.md)
+* [Carousel Slider](page-elements/carousel-slider.md)
+* [Client Logo](page-elements/client-logo.md)
 
