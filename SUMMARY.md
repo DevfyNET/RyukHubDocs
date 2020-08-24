@@ -26,4 +26,7 @@
 * [Grid](page-elements/grid.md)
 * [Images](page-elements/images.md)
 * [List](page-elements/list.md)
+* [Message Alert](page-elements/message-alert.md)
+* [Pagination](page-elements/pagination.md)
+* [Popup Video](page-elements/popup-video.md)
 
