@@ -8,5 +8,5 @@ This documentation will give you an understanding of how RyukHub is structured a
 
 If you need theme customization, please contact us here: custom@devfycr.com, we will be happy to work for you!
 
-Thank you, Devfy Costa Rica.
+Thank you, Devfy.
 
