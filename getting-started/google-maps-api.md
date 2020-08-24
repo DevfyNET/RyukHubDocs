@@ -4,10 +4,6 @@ To get started using the Google Maps click the button below, which guides you th
 
 [Google Maps API](https://developers.google.com/maps/documentation/javascript/get-api-key)
 
-{% page-ref page="google-maps-api.md" %}
-
-
-
 Then paste your key to the API script at the bottom of HTML file:
 
 ```text
