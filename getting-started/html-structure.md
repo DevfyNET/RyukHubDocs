@@ -9,3 +9,7 @@ RyukHub follows a simple coding structure that is easy to understand and impleme
   2. Check and Fix Duplicate IDs.
   3. **Ignore** Google Fonts, `type` Attribute unnecessary or not needed related errors.
 
+## Code Example
+
+`<!DOCTYPE html>`
+
