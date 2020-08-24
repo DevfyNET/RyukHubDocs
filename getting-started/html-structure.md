@@ -110,5 +110,11 @@ RyukHub follows a simple coding structure that is easy to understand and impleme
 </html>
 ```
 
+## **Layout Settings**
 
+This theme is compatible with the preload screen. Add the .pre-load class to the :
+
+```markup
+<body id="pre-load">
+```
 

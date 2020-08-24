@@ -7,3 +7,7 @@
 * [Quick start](getting-started/quick-start.md)
 * [HTML Structure](getting-started/html-structure.md)
 
+---
+
+* [Google Maps API](google-maps-api.md)
+
