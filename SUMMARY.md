@@ -10,5 +10,6 @@
 
 ## Page Elements
 
-* [Untitled](page-elements/untitled.md)
+* [Accordions](page-elements/accordions.md)
+* [Badge](page-elements/badge.md)
 
