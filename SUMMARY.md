@@ -29,4 +29,9 @@
 * [Message Alert](page-elements/message-alert.md)
 * [Pagination](page-elements/pagination.md)
 * [Popup Video](page-elements/popup-video.md)
+* [Pricing Table](page-elements/pricing-table.md)
+* [Progress Bar](page-elements/progress-bar.md)
+* [Social Icons](page-elements/social-icons.md)
+* [Table](page-elements/table.md)
+* [Tooltip & Popovers](page-elements/tooltip-and-popovers.md)
 
