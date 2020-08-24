@@ -1,7 +1,5 @@
 # Accordions
 
-### Accordion example <a id="accordion-example"></a>
-
 Using the [card](https://getbootstrap.com/docs/4.5/components/card/) component, you can extend the default collapse behavior to create an accordion. To properly achieve the accordion style, be sure to use `.accordion` as a wrapper.
 
 ```markup
