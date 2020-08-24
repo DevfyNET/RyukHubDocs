@@ -9,6 +9,15 @@
 * [Google Maps API](getting-started/google-maps-api.md)
 * [Logo Settings](getting-started/logo-settings.md)
 
+## Content
+
+---
+
+* [reboot](reboot.md)
+* [Typography](typography.md)
+* [Code](code.md)
+* [Figures](figures.md)
+
 ## Page Elements
 
 * [Accordions](page-elements/accordions.md)
