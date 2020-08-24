@@ -11,5 +11,18 @@ RyukHub follows a simple coding structure that is easy to understand and impleme
 
 ## Code Example
 
-`<!DOCTYPE html>`
+&lt;!doctype html&gt;
+
+ ...
+
+**Page**
+
+1. [Home](index.html)
+2. Page
+
+ ... ...
+
+ ...
+
+ ... ... ... ...
 
