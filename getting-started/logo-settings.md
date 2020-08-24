@@ -1,5 +1,7 @@
 # Logo Settings
 
+![](../.gitbook/assets/logo.png)
+
 ```text
 <a class="navbar-brand" href="#">
     <img src="assets/img/logo_alt.png" alt="" id="logo-alt">
