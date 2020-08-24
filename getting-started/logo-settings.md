@@ -1,6 +1,10 @@
 # Logo Settings
 
-![](../.gitbook/assets/logo.png)
+![Logo.png](../.gitbook/assets/logo.png)
+
+{% file src="../.gitbook/assets/logo.png" caption="Logo" %}
+
+{% file src="../.gitbook/assets/logo\_alt.png" caption="Logo Alt" %}
 
 ```text
 <a class="navbar-brand" href="#">
