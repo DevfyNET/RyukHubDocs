@@ -2,7 +2,7 @@
 
  Badges scale to match the size of the immediate parent element by using relative font sizing and `em` units.
 
-```text
+```markup
 <h1>Example heading <span class="badge badge-secondary">New</span></h1>
 <h2>Example heading <span class="badge badge-secondary">New</span></h2>
 <h3>Example heading <span class="badge badge-secondary">New</span></h3>
@@ -13,7 +13,7 @@
 
 Badges can be used as part of links or buttons to provide a counter.
 
-```text
+```markup
 <button type="button" class="btn btn-primary">
   Notifications <span class="badge badge-light">4</span>
 </button>
@@ -23,7 +23,7 @@ Badges can be used as part of links or buttons to provide a counter.
 
  Use class `.badge` and for colors `.badge-success & .badge-light-success` for get desire badge.
 
-```text
+```markup
 <span class="badge badge-secondary">Default</span>
 <span class="badge badge-light-secondary">Default</span>
 <span class="badge badge-primary">Primary</span>
@@ -41,7 +41,7 @@ Badges can be used as part of links or buttons to provide a counter.
 
  Use class `.badge .badge-rounded` and for colors `.badge-success` for get desire badge.
 
-```text
+```markup
 <span class="badge badge-rounded badge-secondary">Default</span>
 <span class="badge badge-rounded badge-primary">Primary</span>
 <span class="badge badge-rounded badge-success">Success</span>
