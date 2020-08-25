@@ -31,7 +31,7 @@ Use `<pre>`s for multiple lines of code. Once again, be sure to escape any angle
 
 > y = mx + b
 
-```text
+```markup
 <var>y</var> = <var>m</var><var>x</var> + <var>b</var>
 ```
 
