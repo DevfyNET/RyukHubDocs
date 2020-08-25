@@ -8,6 +8,8 @@
 * [HTML Structure](getting-started/html-structure.md)
 * [Google Maps API](getting-started/google-maps-api.md)
 * [Logo Settings](getting-started/logo-settings.md)
+* [Changing Fonts](getting-started/changing-fonts.md)
+* [Theme Customization](getting-started/theme-customization.md)
 
 ## Content
 
