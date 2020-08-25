@@ -1,5 +1,7 @@
 # Badge
 
+![](../.gitbook/assets/badge-2.png)
+
  Badges scale to match the size of the immediate parent element by using relative font sizing and `em` units.
 
 ```markup
