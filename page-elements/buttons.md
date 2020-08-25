@@ -57,7 +57,7 @@
 
 ### Outline buttons <a id="outline-buttons"></a>
 
-
+![](../.gitbook/assets/btn2.png)
 
 ```markup
 <button type="button" class="btn btn-outline-primary rounded-pill">Primary</button>
