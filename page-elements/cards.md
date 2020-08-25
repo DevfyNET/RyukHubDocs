@@ -214,5 +214,50 @@ This is 3 column contents
 </div>
 ```
 
+### Cards Types
 
+ The building block of a card is the `.card-body`. Use it whenever you need a padded section within a card.
+
+![](../.gitbook/assets/card5.png)
+
+```markup
+<div class="row">
+    <div class="col-lg-12">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <h6 class="card-subtitle mb-2 text-muted">Card subtitle</h6>
+                <p class="card-text">This is a wider card with supporting text and below as a natural lead-in to the additional content. This content is a little bit longer.</p>
+                <p class="card-text d-inline-flex"><small class="text-muted">Last updated 3 mins ago</small>
+                </p><a href="#" class="card-link float-right"><small>Card link</small></a>
+            </div>
+        </div>
+    </div>
+    <!-- End Col -->
+    <div class="col-lg-12 mt-5">
+        <div class="card">
+            <div class="card-body">
+                <h5 class="card-title">Card title</h5>
+                <p class="card-text">This is a wider card with supporting text and below as a natural lead-in to the additional content. This content is a little bit longer.</p>
+            </div>
+            <div class="card-footer">
+                <p class="card-text d-inline-flex"><small class="text-muted">Last updated 3 mins ago</small>
+                </p><a href="#" class="card-link m-l-30"><small>Card link</small> </a><a href="#" class="btn btn-primary float-right">Go somewhere</a>
+            </div>
+        </div>
+    </div>
+    <!-- End Col -->
+    <div class="col-lg-12 mt-5">
+        <div class="card text-center">
+            <div class="card-header">Featured</div>
+            <div class="card-body">
+                <h5 class="card-title">Special title treatment</h5>
+                <p class="card-text">With supporting text below as a natural lead-in to additional content.</p><a href="#" class="btn btn-primary">Go somewhere</a>
+            </div>
+            <div class="card-footer text-muted">Last updateed 5 min ago</div>
+        </div>
+    </div>
+    <!-- End Col -->
+</div>
+```
 
