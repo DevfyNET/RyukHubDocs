@@ -109,7 +109,7 @@
 
 ```
 
-#### Button tags
+### Button tags
 
 ![](../.gitbook/assets/btn3.png)
 
@@ -119,5 +119,42 @@
 <input class="btn btn-primary" type="button" value="Input">
 <input class="btn btn-primary" type="submit" value="Submit">
 <input class="btn btn-primary" type="reset" value="Reset">
+```
+
+### Buttons Sizes
+
+![](../.gitbook/assets/btn4.png)
+
+```markup
+<button type="button" class="btn btn-primary btn-sm">Small button</button>
+<button type="button" class="btn btn-success btn-md">Medium button</button>
+<button type="button" class="btn btn-danger btn-lg">Large button</button>
+
+<button type="button" class="btn btn-info btn-lg btn-block">Block level button</button>
+<button type="button" class="btn btn-dark btn-lg btn-block">Block level button</button>
+```
+
+### Checkbox and radio buttons
+
+![](../.gitbook/assets/btn5.png)
+
+```markup
+<div class="btn-group-toggle" data-toggle="buttons">
+    <label class="btn btn-secondary active">
+      <input type="checkbox" checked="" autocomplete="off"> Checked
+    </label>
+</div>
+
+<div class="btn-group btn-group-toggle" data-toggle="buttons">
+    <label class="btn btn-secondary active">
+      <input type="radio" name="options" id="option1" autocomplete="off" checked=""> Active
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option2" autocomplete="off"> Radio
+    </label>
+    <label class="btn btn-secondary">
+      <input type="radio" name="options" id="option3" autocomplete="off"> Radio
+    </label>
+</div>
 ```
 
