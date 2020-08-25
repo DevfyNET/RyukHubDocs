@@ -25,3 +25,13 @@ Use `<pre>`s for multiple lines of code. Once again, be sure to escape any angle
 </code></pre>
 ```
 
+### Variables
+
+ For indicating variables use the `<var>` tag.
+
+> y = mx + b
+
+```text
+<var>y</var> = <var>m</var><var>x</var> + <var>b</var>
+```
+
