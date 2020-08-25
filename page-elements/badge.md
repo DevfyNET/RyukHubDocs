@@ -39,6 +39,8 @@ Badges can be used as part of links or buttons to provide a counter.
 
 ```
 
+![](../.gitbook/assets/badge-1.png)
+
  Use class `.badge .badge-rounded` and for colors `.badge-success` for get desire badge.
 
 ```markup
