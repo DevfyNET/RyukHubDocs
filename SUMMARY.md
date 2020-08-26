@@ -10,6 +10,7 @@
 * [Logo Settings](getting-started/logo-settings.md)
 * [Changing Fonts](getting-started/changing-fonts.md)
 * [Theme Customization](getting-started/theme-customization.md)
+* [Datatable](getting-started/datatable.md)
 
 ## Content
 
