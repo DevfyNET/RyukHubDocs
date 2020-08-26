@@ -1,6 +1,6 @@
 # Progress Bar
 
-{% page-ref page="progress-bar.md" %}
+[https://luis92.gitbook.io/ryukhub/getting-started/google-maps-api](https://luis92.gitbook.io/ryukhub/getting-started/google-maps-api)
 
 ```markup
 <section class="container my-5">
