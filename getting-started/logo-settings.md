@@ -6,14 +6,14 @@
 
 {% file src="../.gitbook/assets/logo\_alt.png" caption="Logo Alt" %}
 
-```text
+```markup
 <a class="navbar-brand" href="#">
     <img src="assets/img/logo_alt.png" alt="" id="logo-alt">
     <img src="assets/img/logo.png" alt="" id="logo">
 </a>
 ```
 
-```text
+```markup
 <a class="navbar-brand" href="#">
     <img src="assets/img/logo.png" alt="" id="logo" />
 </a>
