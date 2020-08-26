@@ -1,7 +1,5 @@
 # Grid
 
-![](../.gitbook/assets/grid.png)
-
 See how aspects of the Bootstrap grid system work across multiple devices with a handy table.
 
 |  | Extra small &lt;576px | Small ≥576px | Medium ≥768px | Large ≥992px | Extra large ≥1200px |
@@ -12,6 +10,8 @@ See how aspects of the Bootstrap grid system work across multiple devices with a
 | Gutter width | 30px \(15px on each side of a column\) |  |  |  |  |
 | Nestable | Yes |  |  |  |  |
 | Column ordering | Yes |  |  |  |  |
+
+![](../.gitbook/assets/grid.png)
 
 ```markup
 <section id="Grid">
@@ -155,5 +155,6 @@ See how aspects of the Bootstrap grid system work across multiple devices with a
         </div>
     </div>
 </section>
+
 ```
 
