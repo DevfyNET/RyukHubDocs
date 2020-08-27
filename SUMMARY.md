@@ -11,6 +11,7 @@
 * [Changing Fonts](getting-started/changing-fonts.md)
 * [Theme Customization](getting-started/theme-customization.md)
 * [Datatable](getting-started/datatable.md)
+* [Widget](getting-started/widget.md)
 
 ## Content
 
