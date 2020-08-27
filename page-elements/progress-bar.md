@@ -1,7 +1,5 @@
 # Progress Bar
 
-[https://luis92.gitbook.io/ryukhub/getting-started/google-maps-api](https://luis92.gitbook.io/ryukhub/getting-started/google-maps-api)
-
 ```markup
 <section class="container my-5">
     <h2>Basic Progress Bar</h2>
