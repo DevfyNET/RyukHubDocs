@@ -44,7 +44,7 @@
 * [Popup Video](page-elements/popup-video.md)
 * [Pricing Table](page-elements/pricing-table.md)
 * [Progress Bar](page-elements/progress-bar.md)
-* [Social Icons](page-elements/social-icons.md)
+* [Social Icons](https://devfycr.com/ryukhub/element-social-icons.html)
 * [Table](page-elements/table.md)
 * [Tooltip & Popovers](page-elements/tooltip-and-popovers.md)
 
