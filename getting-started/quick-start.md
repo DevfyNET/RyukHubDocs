@@ -1,7 +1,5 @@
 # Quick start
 
-
-
 Once you have downloaded the RyukHub package, you will see the following folder structure:
 
 * **`HTML/assets/css`** – Extra Stylesheets Folder
