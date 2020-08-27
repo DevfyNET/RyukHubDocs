@@ -1,6 +1,6 @@
 # Popup Video
 
-[Popup Video Example](https://devfycr.com/ryukhub/element-popup-video.html)
+### [Popup Video Example](https://devfycr.com/ryukhub/element-popup-video.html)
 
 ```markup
 <div class="row">
