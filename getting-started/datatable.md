@@ -2,6 +2,12 @@
 
 ![](../.gitbook/assets/datatable.png)
 
+```javascript
+$(function () {
+    $('#example').DataTable();
+});
+```
+
 ```markup
 <section id="table-12">
     <div class="container">
