@@ -12,6 +12,8 @@
 * [Theme Customization](getting-started/theme-customization.md)
 * [Datatable](getting-started/datatable.md)
 * [Widget](getting-started/widget.md)
+* [Images Demo](getting-started/images-demo.md)
+* [Video Demo](getting-started/video-demo.md)
 
 ## Content
 
