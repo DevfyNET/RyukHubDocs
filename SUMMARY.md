@@ -14,6 +14,7 @@
 * [Widget](getting-started/widget.md)
 * [Images Demo](getting-started/images-demo.md)
 * [Video Demo](getting-started/video-demo.md)
+* [Support](https://support.zoho.com/portal/devfy/en/home)
 
 ## Content
 
