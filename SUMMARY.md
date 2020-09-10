@@ -15,6 +15,7 @@
 * [Images Demo](getting-started/images-demo.md)
 * [Video Demo](getting-started/video-demo.md)
 * [Support](https://support.zoho.com/portal/devfy/en/home)
+* [Credits](getting-started/credits.md)
 
 ## Content
 
